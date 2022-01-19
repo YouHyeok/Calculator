@@ -1,5 +1,3 @@
-include <stdio.h>
-
 int main() {
 	int a, b, sum;
 	printf("Input two integers to add: ");
